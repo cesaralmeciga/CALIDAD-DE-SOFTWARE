@@ -351,6 +351,17 @@ public class Calculadora extends JFrame implements ActionListener {
 			{
 				char caracter = cadena.charAt(i);
 				
+				
+				if(caracter == '-')
+				{
+					
+				}
+				if(caracter == '+')
+				{
+					
+				}
+				
+				
 				if(caracter == '+')
 				{
 					String antes = cadena.substring(0,i);
